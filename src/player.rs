@@ -1,6 +1,5 @@
 use macroquad::prelude::*;
 use crate::enemy::Enemy;
-use crate::game;
 
 pub struct Player {
     pub(crate) position: Vec2,
